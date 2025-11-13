@@ -30,6 +30,21 @@ print("\nCleaned & Preprocessed Data:")print(df.head())
 df.to_excel('Final_Cleaned_Data.xlsx', index=False)
 print("\n Final Cleaned Data saved as 'Final_Cleaned_Data.xlsx'")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### EXP 3
 
 import numpy as np
@@ -76,6 +91,23 @@ plt.title('LDA from Scratch: Viral vs Bacterial')
 plt.legend()
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ####### EXP 4
 
 import numpy as np
@@ -105,6 +137,18 @@ plt.ylabel('PC2')
 plt.title('PCA from Scratch: Viral vs Bacterial')
 plt.legend()
 plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ##### EXP 5
@@ -166,6 +210,20 @@ def draw_graph(rules, title):
 frequent_itemsets = apriori(transactions)
 rules = generate_rules(frequent_itemsets)
 draw_graph(rules, "Retail Basket Association Rules")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ######## EXP 6
@@ -230,6 +288,14 @@ def predict(row):
 correct = sum(1 for r in data if predict(r) == r[-1])
 accuracy = correct / len(data)
 print("Model Accuracy:", round(accuracy, 2))
+
+
+
+
+
+
+
+
 
 
 ###### EXP 7
@@ -418,6 +484,21 @@ draw_graph(rules, "Retail Basket Association Rules (FP-Growth)")
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ####### EXP 8
 
 # Format: [Age, Gender, ChestPainType, HeartDisease]
@@ -464,6 +545,33 @@ print(f"TP: {tp}, FN: {fn}")
 print(f"FP: {fp}, TN: {tn}")
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###### EXP 9
 
 import pandas as pd
@@ -493,6 +601,26 @@ print("Next Month Forecast:", forecast)
 actual = df['Sales'].iloc[-1]
 error = mean_absolute_error([actual], [forecast])
 print("MAE:", error)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### EXP 10
 
