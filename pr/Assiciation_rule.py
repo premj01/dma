@@ -3,7 +3,7 @@
 import pandas as pd
 from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import apriori, association_rules
-
+import matplotlib.pyplot as plt
 
 # Step 2: Create a simple retail dataset (transactions)
 transactions = [
@@ -25,13 +25,12 @@ frequent_itemsets = apriori(df, min_support=0.4, use_colnames=True)
 print("🧺 Frequent Itemsets:")
 print(frequent_itemsets)
 
-
-# Step 5: Generate association rules (support, confidence, lift)
+# Step 5: Generate association rules
 rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.6)
 print("\n🔗 Association Rules:")
 print(rules[["antecedents", "consequents", "support", "confidence", "lift"]])
 
-# Step 6: Interpret top rules
+# Step 6: Interpret rules
 print("\n🧠 Interpretation:")
 for i, row in rules.iterrows():
     print(
@@ -39,3 +38,20 @@ for i, row in rules.iterrows():
         f"they are likely to buy {list(row['consequents'])} "
         f"(confidence = {row['confidence']:.2f}, lift = {row['lift']:.2f})"
     )
+
+# Step 7: Visualize the rules
+plt.figure(figsize=(8, 6))
+plt.scatter(
+    rules["support"],
+    rules["confidence"],
+    c=rules["lift"],
+    cmap="viridis",
+    s=100,
+    edgecolors="k",
+)
+plt.colorbar(label="Lift")
+plt.title("Association Rules — Support vs Confidence")
+plt.xlabel("Support")
+plt.ylabel("Confidence")
+plt.grid(True)
+plt.show()
