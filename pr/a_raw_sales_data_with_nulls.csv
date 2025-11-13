@@ -1,0 +1,51 @@
+OrderID,Date,CustomerID,Region,Product,Quantity,UnitPrice,Discount,SalesCategory,CustomerInfo,CustomerFeedback
+1001,2025-04-06,C036,North,Laptop,5,182,50.0,High Value,"{""Age"": 18, ""Gender"": ""M"", ""Occupation"": ""Developer""}",Works perfectly fine
+1002,2025-06-09,C059,East,,2,979,10.0,Low Value,"{""Age"": 36, ""Gender"": ""F"", ""Occupation"": ""Engineer""}",Excellent display quality
+1003,2025-01-09,C063,West,Mouse,4,487,,High Value,"{""Age"": 44, ""Gender"": ""M"", ""Occupation"": ""Developer""}",Not worth the price
+1004,2025-06-21,C094,South,Laptop,1,524,50.0,Low Value,"{""Age"": 59, ""Gender"": ""F"", ""Occupation"": ""Developer""}",Excellent display quality
+1005,2025-04-16,C048,North,Keyboard,1,370,30.0,Medium Value,"{""Age"": 58, ""Gender"": ""M"", ""Occupation"": ""Engineer""}",Loved it!
+1006,2025-04-24,C072,North,Laptop,2,898,50.0,High Value,"{""Age"": 40, ""Gender"": ""F"", ""Occupation"": ""Developer""}","Poor packaging, needs improvement"
+1007,2025-04-11,C074,West,Laptop,5,936,0.0,Low Value,"{""Age"": 38, ""Gender"": ""M"", ""Occupation"": ""Designer""}",Late delivery but product is fine
+1008,2025-05-03,C013,West,,1,972,0.0,Medium Value,"{""Age"": 48, ""Gender"": ""M"", ""Occupation"": ""Student""}",Late delivery but product is fine
+1009,2025-05-18,C044,North,Mouse,1,179,50.0,Medium Value,"{""Age"": 19, ""Gender"": ""F"", ""Occupation"": ""Designer""}","Poor packaging, needs improvement"
+1010,2025-02-28,C045,West,Mouse,3,540,20.0,Low Value,"{""Age"": 35, ""Gender"": ""M"", ""Occupation"": ""Engineer""}",Loved it!
+1011,2025-02-21,C075,West,Laptop,4,266,10.0,High Value,"{""Age"": 27, ""Gender"": ""M"", ""Occupation"": ""Engineer""}",Excellent display quality
+1012,2025-06-27,C080,East,Mouse,3,533,50.0,Low Value,"{""Age"": 35, ""Gender"": ""F"", ""Occupation"": ""Manager""}",Works perfectly fine
+1013,2025-05-09,C088,East,Mouse,4,169,30.0,Low Value,"{""Age"": 39, ""Gender"": ""F"", ""Occupation"": ""Student""}",Affordable and good quality
+1014,2025-01-28,C094,East,Laptop,1,637,0.0,High Value,"{""Age"": 30, ""Gender"": ""M"", ""Occupation"": ""Designer""}",Works perfectly fine
+1015,2025-06-04,C023,East,Keyboard,2,506,,Low Value,"{""Age"": 39, ""Gender"": ""M"", ""Occupation"": ""Student""}",Late delivery but product is fine
+1016,2025-02-04,C096,North,Monitor,5,416,10.0,Low Value,"{""Age"": 33, ""Gender"": ""F"", ""Occupation"": ""Student""}",Not worth the price
+1017,2025-01-11,C080,South,Laptop,3,111,30.0,Low Value,"{""Age"": 50, ""Gender"": ""F"", ""Occupation"": ""Manager""}",Works perfectly fine
+1018,2025-03-08,C091,East,Monitor,5,493,20.0,Medium Value,"{""Age"": 41, ""Gender"": ""F"", ""Occupation"": ""Engineer""}",Affordable and good quality
+1019,2025-05-04,C033,West,Laptop,1,694,30.0,Low Value,"{""Age"": 52, ""Gender"": ""M"", ""Occupation"": ""Engineer""}",Works perfectly fine
+1020,2025-05-04,C095,South,Laptop,2,49,50.0,High Value,"{""Age"": 36, ""Gender"": ""F"", ""Occupation"": ""Designer""}",Not worth the price
+1021,2025-06-14,C051,North,Mouse,3,336,10.0,Low Value,"{""Age"": 27, ""Gender"": ""F"", ""Occupation"": ""Engineer""}","Poor packaging, needs improvement"
+1022,2025-05-10,C018,North,Headphones,2,400,30.0,High Value,"{""Age"": 60, ""Gender"": ""F"", ""Occupation"": ""Student""}","Poor packaging, needs improvement"
+1023,2025-02-27,C057,,Keyboard,1,726,20.0,High Value,"{""Age"": 23, ""Gender"": ""M"", ""Occupation"": ""Engineer""}",Excellent display quality
+1024,2025-04-29,C040,East,Monitor,5,692,10.0,High Value,"{""Age"": 50, ""Gender"": ""F"", ""Occupation"": ""Designer""}",Works perfectly fine
+1025,2025-05-31,C016,,Headphones,2,26,30.0,Medium Value,"{""Age"": 31, ""Gender"": ""M"", ""Occupation"": ""Manager""}",Not worth the price
+1026,2025-06-06,C075,West,Monitor,3,797,20.0,High Value,"{""Age"": 25, ""Gender"": ""F"", ""Occupation"": ""Engineer""}",Loved it!
+1027,2025-06-12,C089,North,Keyboard,3,410,0.0,Medium Value,"{""Age"": 41, ""Gender"": ""M"", ""Occupation"": ""Student""}",Average quality
+1028,2025-04-28,C052,West,Monitor,3,720,10.0,Medium Value,"{""Age"": 24, ""Gender"": ""F"", ""Occupation"": ""Student""}",A bit expensive but works great
+1029,2025-03-17,C005,West,Keyboard,5,669,10.0,Medium Value,"{""Age"": 48, ""Gender"": ""M"", ""Occupation"": ""Student""}",Excellent display quality
+1030,2025-04-05,C099,North,Headphones,2,618,30.0,High Value,"{""Age"": 18, ""Gender"": ""M"", ""Occupation"": ""Developer""}",Loved it!
+1031,2025-01-05,C084,East,Keyboard,4,440,0.0,Medium Value,"{""Age"": 29, ""Gender"": ""F"", ""Occupation"": ""Developer""}",Average quality
+1032,2025-03-23,C074,West,Monitor,5,185,30.0,Medium Value,"{""Age"": 52, ""Gender"": ""F"", ""Occupation"": ""Developer""}",Excellent display quality
+1033,2025-05-06,C038,South,Monitor,5,536,,High Value,"{""Age"": 37, ""Gender"": ""M"", ""Occupation"": ""Engineer""}","Poor packaging, needs improvement"
+1034,2025-01-29,C099,East,Headphones,5,350,20.0,High Value,"{""Age"": 50, ""Gender"": ""M"", ""Occupation"": ""Manager""}",Affordable and good quality
+1035,2025-01-25,C057,South,Laptop,5,423,10.0,High Value,"{""Age"": 55, ""Gender"": ""M"", ""Occupation"": ""Student""}",Late delivery but product is fine
+1036,2025-01-04,C033,North,Monitor,5,588,30.0,High Value,"{""Age"": 43, ""Gender"": ""F"", ""Occupation"": ""Engineer""}",Not worth the price
+1037,2025-06-20,C013,South,Laptop,3,569,,Medium Value,"{""Age"": 23, ""Gender"": ""M"", ""Occupation"": ""Developer""}",Excellent display quality
+1038,2025-02-24,C051,North,Monitor,5,921,20.0,Medium Value,"{""Age"": 27, ""Gender"": ""M"", ""Occupation"": ""Student""}",Excellent display quality
+1039,2025-01-05,C069,North,Mouse,2,985,50.0,High Value,"{""Age"": 44, ""Gender"": ""M"", ""Occupation"": ""Student""}",Works perfectly fine
+1040,2025-02-16,C086,South,Headphones,2,542,50.0,Low Value,"{""Age"": 27, ""Gender"": ""F"", ""Occupation"": ""Designer""}",Loved it!
+1041,2025-02-07,C098,South,,1,481,30.0,Medium Value,"{""Age"": 32, ""Gender"": ""F"", ""Occupation"": ""Manager""}",Affordable and good quality
+1042,2025-04-21,C017,South,Laptop,2,80,10.0,Medium Value,"{""Age"": 33, ""Gender"": ""M"", ""Occupation"": ""Developer""}",Affordable and good quality
+1043,2025-01-06,C080,West,,4,512,0.0,Medium Value,"{""Age"": 57, ""Gender"": ""F"", ""Occupation"": ""Manager""}",Loved it!
+1044,2025-03-31,C089,East,Monitor,1,544,30.0,Medium Value,"{""Age"": 30, ""Gender"": ""M"", ""Occupation"": ""Developer""}",Affordable and good quality
+1045,2025-04-12,C006,East,Mouse,3,874,50.0,Medium Value,"{""Age"": 33, ""Gender"": ""M"", ""Occupation"": ""Student""}",Loved it!
+1046,2025-04-23,C033,East,Monitor,5,993,50.0,Low Value,"{""Age"": 40, ""Gender"": ""M"", ""Occupation"": ""Manager""}","Great product, fast delivery!"
+1047,2025-04-02,C060,South,,1,63,10.0,High Value,"{""Age"": 33, ""Gender"": ""M"", ""Occupation"": ""Manager""}",A bit expensive but works great
+1048,2025-04-29,C031,,Monitor,2,919,30.0,High Value,"{""Age"": 46, ""Gender"": ""M"", ""Occupation"": ""Manager""}",A bit expensive but works great
+1049,2025-04-02,C040,,Monitor,1,134,0.0,High Value,"{""Age"": 26, ""Gender"": ""M"", ""Occupation"": ""Developer""}",Loved it!
+1050,2025-06-22,C027,,Monitor,2,751,50.0,High Value,"{""Age"": 44, ""Gender"": ""M"", ""Occupation"": ""Developer""}",Not worth the price

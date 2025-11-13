@@ -1,0 +1,37 @@
+OrderID,Date,CustomerID,Region,Product,Quantity,UnitPrice,Discount,SalesCategory,CustomerFeedback,TotalSales,NetSales,Age,Gender,Occupation,Year,Month,Sentiment
+1001,2025-04-06,C036,North,Laptop,5,182,50.0,High Value,Works perfectly fine,910,860.0,18,M,Developer,2025,April,Positive
+1004,2025-06-21,C094,South,Laptop,1,524,50.0,Low Value,Excellent display quality,524,474.0,59,F,Developer,2025,June,Positive
+1005,2025-04-16,C048,North,Keyboard,1,370,30.0,Medium Value,Loved it!,370,340.0,58,M,Engineer,2025,April,Positive
+1006,2025-04-24,C072,North,Laptop,2,898,50.0,High Value,"Poor packaging, needs improvement",1796,1746.0,40,F,Developer,2025,April,Negative
+1007,2025-04-11,C074,West,Laptop,5,936,0.0,Low Value,Late delivery but product is fine,4680,4680.0,38,M,Designer,2025,April,Negative
+1009,2025-05-18,C044,North,Mouse,1,179,50.0,Medium Value,"Poor packaging, needs improvement",179,129.0,19,F,Designer,2025,May,Negative
+1010,2025-02-28,C045,West,Mouse,3,540,20.0,Low Value,Loved it!,1620,1600.0,35,M,Engineer,2025,February,Positive
+1011,2025-02-21,C075,West,Laptop,4,266,10.0,High Value,Excellent display quality,1064,1054.0,27,M,Engineer,2025,February,Positive
+1012,2025-06-27,C080,East,Mouse,3,533,50.0,Low Value,Works perfectly fine,1599,1549.0,35,F,Manager,2025,June,Positive
+1013,2025-05-09,C088,East,Mouse,4,169,30.0,Low Value,Affordable and good quality,676,646.0,39,F,Student,2025,May,Positive
+1014,2025-01-28,C094,East,Laptop,1,637,0.0,High Value,Works perfectly fine,637,637.0,30,M,Designer,2025,January,Positive
+1016,2025-02-04,C096,North,Monitor,5,416,10.0,Low Value,Not worth the price,2080,2070.0,33,F,Student,2025,February,Negative
+1017,2025-01-11,C080,South,Laptop,3,111,30.0,Low Value,Works perfectly fine,333,303.0,50,F,Manager,2025,January,Positive
+1018,2025-03-08,C091,East,Monitor,5,493,20.0,Medium Value,Affordable and good quality,2465,2445.0,41,F,Engineer,2025,March,Positive
+1019,2025-05-04,C033,West,Laptop,1,694,30.0,Low Value,Works perfectly fine,694,664.0,52,M,Engineer,2025,May,Positive
+1020,2025-05-04,C095,South,Laptop,2,49,50.0,High Value,Not worth the price,98,48.0,36,F,Designer,2025,May,Negative
+1021,2025-06-14,C051,North,Mouse,3,336,10.0,Low Value,"Poor packaging, needs improvement",1008,998.0,27,F,Engineer,2025,June,Negative
+1022,2025-05-10,C018,North,Headphones,2,400,30.0,High Value,"Poor packaging, needs improvement",800,770.0,60,F,Student,2025,May,Negative
+1024,2025-04-29,C040,East,Monitor,5,692,10.0,High Value,Works perfectly fine,3460,3450.0,50,F,Designer,2025,April,Positive
+1026,2025-06-06,C075,West,Monitor,3,797,20.0,High Value,Loved it!,2391,2371.0,25,F,Engineer,2025,June,Positive
+1027,2025-06-12,C089,North,Keyboard,3,410,0.0,Medium Value,Average quality,1230,1230.0,41,M,Student,2025,June,Neutral
+1028,2025-04-28,C052,West,Monitor,3,720,10.0,Medium Value,A bit expensive but works great,2160,2150.0,24,F,Student,2025,April,Positive
+1029,2025-03-17,C005,West,Keyboard,5,669,10.0,Medium Value,Excellent display quality,3345,3335.0,48,M,Student,2025,March,Positive
+1030,2025-04-05,C099,North,Headphones,2,618,30.0,High Value,Loved it!,1236,1206.0,18,M,Developer,2025,April,Positive
+1031,2025-01-05,C084,East,Keyboard,4,440,0.0,Medium Value,Average quality,1760,1760.0,29,F,Developer,2025,January,Neutral
+1032,2025-03-23,C074,West,Monitor,5,185,30.0,Medium Value,Excellent display quality,925,895.0,52,F,Developer,2025,March,Positive
+1034,2025-01-29,C099,East,Headphones,5,350,20.0,High Value,Affordable and good quality,1750,1730.0,50,M,Manager,2025,January,Positive
+1035,2025-01-25,C057,South,Laptop,5,423,10.0,High Value,Late delivery but product is fine,2115,2105.0,55,M,Student,2025,January,Negative
+1036,2025-01-04,C033,North,Monitor,5,588,30.0,High Value,Not worth the price,2940,2910.0,43,F,Engineer,2025,January,Negative
+1038,2025-02-24,C051,North,Monitor,5,921,20.0,Medium Value,Excellent display quality,4605,4585.0,27,M,Student,2025,February,Positive
+1039,2025-01-05,C069,North,Mouse,2,985,50.0,High Value,Works perfectly fine,1970,1920.0,44,M,Student,2025,January,Positive
+1040,2025-02-16,C086,South,Headphones,2,542,50.0,Low Value,Loved it!,1084,1034.0,27,F,Designer,2025,February,Positive
+1042,2025-04-21,C017,South,Laptop,2,80,10.0,Medium Value,Affordable and good quality,160,150.0,33,M,Developer,2025,April,Positive
+1044,2025-03-31,C089,East,Monitor,1,544,30.0,Medium Value,Affordable and good quality,544,514.0,30,M,Developer,2025,March,Positive
+1045,2025-04-12,C006,East,Mouse,3,874,50.0,Medium Value,Loved it!,2622,2572.0,33,M,Student,2025,April,Positive
+1046,2025-04-23,C033,East,Monitor,5,993,50.0,Low Value,"Great product, fast delivery!",4965,4915.0,40,M,Manager,2025,April,Positive

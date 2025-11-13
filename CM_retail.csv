@@ -1,0 +1,13 @@
+Age,Income,SpendingScore,Category
+22,30000,45,Low
+25,35000,60,Medium
+30,40000,75,High
+35,50000,65,High
+40,45000,55,Medium
+50,60000,30,Low
+28,42000,70,High
+48,58000,40,Low
+33,39000,68,Medium
+45,52000,50,Medium
+38,48000,72,High
+55,62000,35,Low

@@ -1,0 +1,103 @@
+OrderID,DATE,CustomerID,Region,Product,Quantity,UnitPrice,TotalSales,Discount,NetSales,SalesCategory,CustomerInfo,CustomerFeedback
+1001.0,2025-09-01,CUST046,East,Webcam,10.0,67212.0,672120.0,3360.6,668759.4,High,"{'CustomerID': 'CUST046', 'LoyaltyPoints': 460, 'PreferredPayment': 'UPI'}",Good service and fast delivery!
+1002.0,2025-09-05,CUST030,East,Webcam,2.0,36249.0,72498.0,1812.45,70685.55,Low,"{'CustomerID': 'CUST030', 'LoyaltyPoints': 300, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1003.0,2025-09-09,CUST043,West,Keyboard,2.0,73511.0,147022.0,3675.55,143346.45,Medium,"{'CustomerID': 'CUST043', 'LoyaltyPoints': 430, 'PreferredPayment': 'Card'}",Excellent support and timely delivery.
+1004.0,2025-09-13,CUST012,North,Router,9.0,12894.0,116046.0,644.7,115401.3,Medium,"{'CustomerID': 'CUST012', 'LoyaltyPoints': 120, 'PreferredPayment': 'UPI'}","Received damaged product, requested replacement."
+1005.0,2025-09-17,CUST004,East,Mouse,4.0,73473.0,293892.0,3673.65,290218.35,Medium,"{'CustomerID': 'CUST004', 'LoyaltyPoints': 40, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1006.0,2025-09-21,CUST031,North,Mouse,2.0,60878.0,121756.0,3043.9,118712.1,Medium,"{'CustomerID': 'CUST031', 'LoyaltyPoints': 310, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1007.0,2025-09-25,CUST041,North,Router,8.0,57152.0,457216.0,2857.6,454358.4,High,"{'CustomerID': 'CUST041', 'LoyaltyPoints': 410, 'PreferredPayment': 'Card'}",Product quality could be better.
+1008.0,2025-09-29,CUST019,West,Router,3.0,1352.0,4056.0,67.6,3988.4,Low,"{'CustomerID': 'CUST019', 'LoyaltyPoints': 190, 'PreferredPayment': 'Card'}",Excellent support and timely delivery.
+1009.0,2025-10-03,CUST019,East,Router,4.0,2795.0,11180.0,139.75,11040.25,Low,"{'CustomerID': 'CUST019', 'LoyaltyPoints': 190, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1010.0,2025-10-07,CUST023,East,Webcam,8.0,79974.0,639792.0,3998.7,635793.3,High,"{'CustomerID': 'CUST023', 'LoyaltyPoints': 230, 'PreferredPayment': 'Card'}",Very satisfied with purchase.
+1011.0,2025-10-11,CUST011,North,Printer,1.0,79802.0,79802.0,3990.1,75811.9,Low,"{'CustomerID': 'CUST011', 'LoyaltyPoints': 110, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1012.0,2025-10-15,CUST030,South,Mouse,8.0,42224.0,337792.0,2111.2,335680.8,High,"{'CustomerID': 'CUST030', 'LoyaltyPoints': 300, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1013.0,2025-10-19,CUST002,South,Keyboard,7.0,77794.0,544558.0,3889.7,540668.3,High,"{'CustomerID': 'CUST002', 'LoyaltyPoints': 20, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1014.0,2025-10-23,CUST025,North,Router,10.0,69608.0,696080.0,3480.4,692599.6,High,"{'CustomerID': 'CUST025', 'LoyaltyPoints': 250, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1015.0,2025-10-27,CUST047,South,Monitor,7.0,17417.0,121919.0,870.85,121048.15,Medium,"{'CustomerID': 'CUST047', 'LoyaltyPoints': 470, 'PreferredPayment': 'Card'}",Very satisfied with purchase.
+1016.0,2025-10-31,CUST005,East,Headphones,10.0,76599.0,765990.0,3829.95,762160.05,,"{'CustomerID': 'CUST005', 'LoyaltyPoints': 50, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1017.0,2025-11-04,CUST011,North,Mouse,4.0,65687.0,262748.0,3284.35,259463.65,Medium,"{'CustomerID': 'CUST011', 'LoyaltyPoints': 110, 'PreferredPayment': 'Card'}",Product quality could be better.
+1018.0,2025-11-08,CUST015,South,Webcam,10.0,73253.0,732530.0,3662.65,728867.35,,"{'CustomerID': 'CUST015', 'LoyaltyPoints': 150, 'PreferredPayment': 'Card'}",Excellent support and timely delivery.
+1019.0,2025-11-12,CUST013,East,Keyboard,4.0,42421.0,169684.0,2121.05,167562.95,Medium,"{'CustomerID': 'CUST013', 'LoyaltyPoints': 130, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1020.0,2025-11-16,CUST048,East,Router,5.0,11921.0,59605.0,596.05,59008.95,Low,"{'CustomerID': 'CUST048', 'LoyaltyPoints': 480, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1021.0,2025-11-20,CUST034,South,Laptop,10.0,38243.0,382430.0,1912.15,380517.85,High,"{'CustomerID': 'CUST034', 'LoyaltyPoints': 340, 'PreferredPayment': 'UPI'}",Good service and fast delivery!
+1022.0,2025-11-24,CUST031,South,Keyboard,5.0,72738.0,363690.0,3636.9,360053.1,High,"{'CustomerID': 'CUST031', 'LoyaltyPoints': 310, 'PreferredPayment': 'Card'}",Product quality could be better.
+1023.0,2025-11-28,CUST008,East,Keyboard,1.0,16809.0,16809.0,840.45,15968.55,Low,"{'CustomerID': 'CUST008', 'LoyaltyPoints': 80, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1024.0,2025-12-02,CUST034,South,Router,7.0,21662.0,151634.0,1083.1,150550.9,Medium,"{'CustomerID': 'CUST034', 'LoyaltyPoints': 340, 'PreferredPayment': 'UPI'}","Received damaged product, requested replacement."
+1025.0,2025-12-06,CUST003,East,Printer,1.0,79528.0,79528.0,3976.4,75551.6,Low,"{'CustomerID': 'CUST003', 'LoyaltyPoints': 30, 'PreferredPayment': 'Card'}",Very satisfied with purchase.
+1026.0,2025-12-10,CUST016,East,Webcam,10.0,22784.0,227840.0,1139.2,226700.8,Medium,"{'CustomerID': 'CUST016', 'LoyaltyPoints': 160, 'PreferredPayment': 'UPI'}",Good service and fast delivery!
+1027.0,2025-12-14,CUST044,North,Webcam,1.0,44330.0,44330.0,2216.5,42113.5,Low,"{'CustomerID': 'CUST044', 'LoyaltyPoints': 440, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1028.0,2025-12-18,CUST038,East,Keyboard,6.0,73599.0,441594.0,3679.95,437914.05,High,"{'CustomerID': 'CUST038', 'LoyaltyPoints': 380, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1029.0,2025-12-22,CUST001,East,Headphones,7.0,37573.0,263011.0,1878.65,261132.35,Medium,"{'CustomerID': 'CUST001', 'LoyaltyPoints': 10, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1030.0,2025-12-26,CUST002,South,Mouse,1.0,42376.0,42376.0,2118.8,40257.2,Low,"{'CustomerID': 'CUST002', 'LoyaltyPoints': 20, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1031.0,2025-12-30,CUST007,South,Webcam,5.0,31237.0,156185.0,1561.85,154623.15,Medium,"{'CustomerID': 'CUST007', 'LoyaltyPoints': 70, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1032.0,2026-01-03,CUST033,South,Laptop,10.0,65768.0,657680.0,3288.4,654391.6,High,"{'CustomerID': 'CUST033', 'LoyaltyPoints': 330, 'PreferredPayment': 'Card'}",Product quality could be better.
+1033.0,2026-01-07,CUST032,East,Printer,9.0,62239.0,560151.0,3111.95,557039.05,High,"{'CustomerID': 'CUST032', 'LoyaltyPoints': 320, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1034.0,2026-01-11,CUST011,North,Laptop,5.0,58944.0,294720.0,2947.2,291772.8,Medium,"{'CustomerID': 'CUST011', 'LoyaltyPoints': 110, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1035.0,2026-01-15,CUST012,West,Monitor,7.0,26086.0,182602.0,1304.3,181297.7,Medium,"{'CustomerID': 'CUST012', 'LoyaltyPoints': 120, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1036.0,2026-01-19,CUST007,South,Router,4.0,62794.0,251176.0,3139.7,248036.3,Medium,"{'CustomerID': 'CUST007', 'LoyaltyPoints': 70, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1037.0,2026-01-23,CUST050,West,Headphones,10.0,66130.0,661300.0,3306.5,657993.5,High,"{'CustomerID': 'CUST050', 'LoyaltyPoints': 500, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1038.0,2026-01-27,CUST012,South,Laptop,10.0,1637.0,16370.0,81.85,16288.15,Low,"{'CustomerID': 'CUST012', 'LoyaltyPoints': 120, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1039.0,2026-01-31,CUST039,West,Webcam,7.0,42505.0,297535.0,2125.25,295409.75,Medium,"{'CustomerID': 'CUST039', 'LoyaltyPoints': 390, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1040.0,2026-02-04,CUST047,North,Monitor,9.0,41023.0,369207.0,2051.15,367155.85,High,"{'CustomerID': 'CUST047', 'LoyaltyPoints': 470, 'PreferredPayment': 'Card'}",Very satisfied with purchase.
+1041.0,2026-02-08,CUST031,South,Keyboard,3.0,41157.0,123471.0,2057.85,121413.15,Medium,"{'CustomerID': 'CUST031', 'LoyaltyPoints': 310, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1042.0,2026-02-12,CUST018,East,Keyboard,6.0,68793.0,412758.0,3439.65,409318.35,High,"{'CustomerID': 'CUST018', 'LoyaltyPoints': 180, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1043.0,2026-02-16,CUST021,West,Laptop,5.0,54644.0,273220.0,2732.2,270487.8,Medium,"{'CustomerID': 'CUST021', 'LoyaltyPoints': 210, 'PreferredPayment': 'Card'}",Excellent support and timely delivery.
+1044.0,2026-02-20,CUST049,East,Headphones,3.0,29593.0,88779.0,1479.65,87299.35,Low,"{'CustomerID': 'CUST049', 'LoyaltyPoints': 490, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1045.0,2026-02-24,CUST039,West,Laptop,7.0,22432.0,157024.0,1121.6,155902.4,Medium,"{'CustomerID': 'CUST039', 'LoyaltyPoints': 390, 'PreferredPayment': 'Card'}",Very satisfied with purchase.
+1046.0,2026-02-28,CUST010,East,Mouse,3.0,16255.0,48765.0,812.75,47952.25,Low,"{'CustomerID': 'CUST010', 'LoyaltyPoints': 100, 'PreferredPayment': 'UPI'}",Good service and fast delivery!
+1047.0,2026-03-04,CUST010,East,Printer,10.0,29544.0,295440.0,1477.2,293962.8,Medium,"{'CustomerID': 'CUST010', 'LoyaltyPoints': 100, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1048.0,2026-03-08,CUST012,North,Keyboard,9.0,57537.0,517833.0,2876.85,514956.15,High,"{'CustomerID': 'CUST012', 'LoyaltyPoints': 120, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1049.0,2026-03-12,CUST003,South,Keyboard,5.0,60116.0,300580.0,3005.8,297574.2,High,"{'CustomerID': 'CUST003', 'LoyaltyPoints': 30, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1050.0,2026-03-16,CUST029,South,Webcam,10.0,6091.0,60910.0,304.55,60605.45,Low,"{'CustomerID': 'CUST029', 'LoyaltyPoints': 290, 'PreferredPayment': 'Card'}",Very satisfied with purchase.
+1051.0,2026-03-20,CUST003,West,Keyboard,2.0,50241.0,100482.0,2512.05,97969.95,Medium,"{'CustomerID': 'CUST003', 'LoyaltyPoints': 30, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1052.0,2026-03-24,CUST007,South,Mouse,10.0,48556.0,485560.0,2427.8,483132.2,High,"{'CustomerID': 'CUST007', 'LoyaltyPoints': 70, 'PreferredPayment': 'Card'}",Product quality could be better.
+1053.0,2026-03-28,CUST002,West,Laptop,2.0,49003.0,98006.0,2450.15,95555.85,Low,"{'CustomerID': 'CUST002', 'LoyaltyPoints': 20, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1054.0,2026-04-01,CUST024,South,Printer,3.0,47971.0,143913.0,2398.55,141514.45,Medium,"{'CustomerID': 'CUST024', 'LoyaltyPoints': 240, 'PreferredPayment': 'UPI'}","Received damaged product, requested replacement."
+1055.0,2026-04-05,CUST034,North,Monitor,1.0,50777.0,50777.0,2538.85,48238.15,Low,"{'CustomerID': 'CUST034', 'LoyaltyPoints': 340, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1056.0,2026-04-09,CUST034,South,Keyboard,3.0,74723.0,224169.0,3736.15,220432.85,Medium,"{'CustomerID': 'CUST034', 'LoyaltyPoints': 340, 'PreferredPayment': 'UPI'}",Good service and fast delivery!
+1057.0,2026-04-13,CUST013,North,Webcam,8.0,30371.0,242968.0,1518.55,241449.45,Medium,"{'CustomerID': 'CUST013', 'LoyaltyPoints': 130, 'PreferredPayment': 'Card'}",Product quality could be better.
+1058.0,2026-04-17,CUST003,North,Router,1.0,48929.0,48929.0,2446.45,46482.55,Low,"{'CustomerID': 'CUST003', 'LoyaltyPoints': 30, 'PreferredPayment': 'Card'}",Excellent support and timely delivery.
+1059.0,2026-04-21,CUST038,South,Monitor,8.0,55720.0,445760.0,2786.0,442974.0,High,"{'CustomerID': 'CUST038', 'LoyaltyPoints': 380, 'PreferredPayment': 'UPI'}","Received damaged product, requested replacement."
+1060.0,2026-04-25,CUST020,South,Router,7.0,78543.0,549801.0,3927.15,545873.85,High,"{'CustomerID': 'CUST020', 'LoyaltyPoints': 200, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1061.0,2026-04-29,CUST047,South,Laptop,2.0,35893.0,71786.0,1794.65,69991.35,Low,"{'CustomerID': 'CUST047', 'LoyaltyPoints': 470, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1062.0,2026-05-03,CUST046,East,Laptop,6.0,52211.0,313266.0,2610.55,310655.45,High,"{'CustomerID': 'CUST046', 'LoyaltyPoints': 460, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1063.0,2026-05-07,CUST032,East,Webcam,9.0,34904.0,314136.0,1745.2,312390.8,High,"{'CustomerID': 'CUST032', 'LoyaltyPoints': 320, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1064.0,2026-05-11,CUST013,West,Keyboard,1.0,21415.0,21415.0,1070.75,20344.25,Low,"{'CustomerID': 'CUST013', 'LoyaltyPoints': 130, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1065.0,2026-05-15,CUST008,West,Mouse,8.0,41405.0,331240.0,2070.25,329169.75,High,"{'CustomerID': 'CUST008', 'LoyaltyPoints': 80, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1066.0,2026-05-19,CUST009,West,Router,3.0,48842.0,146526.0,2442.1,144083.9,Medium,"{'CustomerID': 'CUST009', 'LoyaltyPoints': 90, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1067.0,2026-05-23,CUST041,South,Monitor,5.0,1766.0,8830.0,88.3,8741.7,Low,"{'CustomerID': 'CUST041', 'LoyaltyPoints': 410, 'PreferredPayment': 'Card'}",Product quality could be better.
+1068.0,2026-05-27,CUST013,West,Router,3.0,71940.0,215820.0,3597.0,212223.0,Medium,"{'CustomerID': 'CUST013', 'LoyaltyPoints': 130, 'PreferredPayment': 'Card'}",Excellent support and timely delivery.
+1069.0,2026-05-31,CUST039,West,Printer,6.0,58475.0,350850.0,2923.75,347926.25,High,"{'CustomerID': 'CUST039', 'LoyaltyPoints': 390, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1070.0,2026-06-04,CUST029,North,Webcam,7.0,18036.0,126252.0,901.8,125350.2,Medium,"{'CustomerID': 'CUST029', 'LoyaltyPoints': 290, 'PreferredPayment': 'Card'}",Very satisfied with purchase.
+1071.0,2026-06-08,CUST037,West,Laptop,4.0,2453.0,9812.0,122.65,9689.35,Low,"{'CustomerID': 'CUST037', 'LoyaltyPoints': 370, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1072.0,2026-06-12,CUST043,East,Laptop,10.0,38681.0,386810.0,1934.05,384875.95,High,"{'CustomerID': 'CUST043', 'LoyaltyPoints': 430, 'PreferredPayment': 'Card'}",Product quality could be better.
+1073.0,2026-06-16,CUST025,West,Keyboard,7.0,79645.0,557515.0,3982.25,553532.75,High,"{'CustomerID': 'CUST025', 'LoyaltyPoints': 250, 'PreferredPayment': 'Card'}",Excellent support and timely delivery.
+1074.0,2026-06-20,CUST004,West,Keyboard,1.0,4001.0,4001.0,200.05,3800.95,Low,"{'CustomerID': 'CUST004', 'LoyaltyPoints': 40, 'PreferredPayment': 'UPI'}","Received damaged product, requested replacement."
+1075.0,2026-06-24,CUST008,East,Mouse,2.0,8901.0,17802.0,445.05,17356.95,Low,"{'CustomerID': 'CUST008', 'LoyaltyPoints': 80, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1076.0,2026-06-28,CUST019,West,Keyboard,2.0,78027.0,156054.0,3901.35,152152.65,Medium,"{'CustomerID': 'CUST019', 'LoyaltyPoints': 190, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1077.0,2026-07-02,CUST001,West,Laptop,4.0,75890.0,303560.0,3794.5,299765.5,High,"{'CustomerID': 'CUST001', 'LoyaltyPoints': 10, 'PreferredPayment': 'Card'}",Product quality could be better.
+1078.0,2026-07-06,CUST049,East,Laptop,4.0,37221.0,148884.0,1861.05,147022.95,Medium,"{'CustomerID': 'CUST049', 'LoyaltyPoints': 490, 'PreferredPayment': 'Card'}",Excellent support and timely delivery.
+1079.0,2026-07-10,CUST014,North,Router,5.0,12733.0,63665.0,636.65,63028.35,Low,"{'CustomerID': 'CUST014', 'LoyaltyPoints': 140, 'PreferredPayment': 'UPI'}","Received damaged product, requested replacement."
+1080.0,2026-07-14,CUST004,West,Webcam,8.0,73601.0,588808.0,3680.05,585127.95,High,"{'CustomerID': 'CUST004', 'LoyaltyPoints': 40, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1081.0,2026-07-18,CUST040,South,Router,3.0,70636.0,211908.0,3531.8,208376.2,Medium,"{'CustomerID': 'CUST040', 'LoyaltyPoints': 400, 'PreferredPayment': 'UPI'}",Good service and fast delivery!
+1082.0,2026-07-22,CUST048,West,Webcam,3.0,66120.0,198360.0,3306.0,195054.0,Medium,"{'CustomerID': 'CUST048', 'LoyaltyPoints': 480, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1083.0,2026-07-26,CUST036,West,Printer,3.0,53496.0,160488.0,2674.8,157813.2,Medium,"{'CustomerID': 'CUST036', 'LoyaltyPoints': 360, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1084.0,2026-07-30,CUST023,West,Printer,2.0,62513.0,125026.0,3125.65,121900.35,Medium,"{'CustomerID': 'CUST023', 'LoyaltyPoints': 230, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1085.0,2026-08-03,CUST042,West,Keyboard,1.0,59463.0,59463.0,2973.15,56489.85,Low,"{'CustomerID': 'CUST042', 'LoyaltyPoints': 420, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1086.0,2026-08-07,CUST006,West,Webcam,5.0,66667.0,333335.0,3333.35,330001.65,High,"{'CustomerID': 'CUST006', 'LoyaltyPoints': 60, 'PreferredPayment': 'UPI'}",Good service and fast delivery!
+1087.0,2026-08-11,CUST032,North,Printer,10.0,73473.0,734730.0,3673.65,731056.35,,"{'CustomerID': 'CUST032', 'LoyaltyPoints': 320, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1088.0,2026-08-15,CUST007,East,Laptop,6.0,69579.0,417474.0,3478.95,413995.05,High,"{'CustomerID': 'CUST007', 'LoyaltyPoints': 70, 'PreferredPayment': 'Card'}",Excellent support and timely delivery.
+1089.0,2026-08-19,CUST017,South,Printer,2.0,49680.0,99360.0,2484.0,96876.0,Low,"{'CustomerID': 'CUST017', 'LoyaltyPoints': 170, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1090.0,2026-08-23,CUST006,East,Router,9.0,68100.0,612900.0,3405.0,609495.0,High,"{'CustomerID': 'CUST006', 'LoyaltyPoints': 60, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1091.0,2026-08-27,CUST007,West,Printer,3.0,78329.0,234987.0,3916.45,231070.55,Medium,"{'CustomerID': 'CUST007', 'LoyaltyPoints': 70, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1092.0,2026-08-31,CUST032,West,Keyboard,9.0,62870.0,565830.0,3143.5,562686.5,High,"{'CustomerID': 'CUST032', 'LoyaltyPoints': 320, 'PreferredPayment': 'UPI'}",Product quality could be better.
+1093.0,2026-09-04,CUST004,South,Laptop,3.0,16291.0,48873.0,814.55,48058.45,Low,"{'CustomerID': 'CUST004', 'LoyaltyPoints': 40, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1094.0,2026-09-08,CUST027,South,Router,1.0,63860.0,63860.0,3193.0,60667.0,Low,"{'CustomerID': 'CUST027', 'LoyaltyPoints': 270, 'PreferredPayment': 'Card'}","Received damaged product, requested replacement."
+1095.0,2026-09-12,CUST012,West,Router,4.0,22289.0,89156.0,1114.45,88041.55,Low,"{'CustomerID': 'CUST012', 'LoyaltyPoints': 120, 'PreferredPayment': 'UPI'}",Very satisfied with purchase.
+1096.0,2026-09-16,CUST043,West,Webcam,2.0,670.0,1340.0,33.5,1306.5,Low,"{'CustomerID': 'CUST043', 'LoyaltyPoints': 430, 'PreferredPayment': 'Card'}",Good service and fast delivery!
+1097.0,2026-09-20,CUST009,South,Printer,4.0,17584.0,70336.0,879.2,69456.8,Low,"{'CustomerID': 'CUST009', 'LoyaltyPoints': 90, 'PreferredPayment': 'Card'}",Product quality could be better.
+1098.0,2026-09-24,CUST044,West,Mouse,1.0,52477.0,52477.0,2623.85,49853.15,Low,"{'CustomerID': 'CUST044', 'LoyaltyPoints': 440, 'PreferredPayment': 'UPI'}",Excellent support and timely delivery.
+1099.0,2026-09-28,CUST038,North,Webcam,1.0,71837.0,71837.0,3591.85,68245.15,Low,"{'CustomerID': 'CUST038', 'LoyaltyPoints': 380, 'PreferredPayment': 'UPI'}","Received damaged product, requested replacement."
+1100.0,2026-10-02,CUST035,West,Laptop,4.0,4682.0,18728.0,234.1,18493.9,Low,"{'CustomerID': 'CUST035', 'LoyaltyPoints': 350, 'PreferredPayment': 'Card'}",Very satisfied with purchase.
+,,,Unknown,,5.22,46778.73,,2338.94,,,"{'CustomerID': 'nan', 'LoyaltyPoints': 0, 'PreferredPayment': 'UPI'}",Good service and fast delivery!
+,,,Unknown,,5.22,46778.73,,2338.94,,,"{'CustomerID': 'nan', 'LoyaltyPoints': 0, 'PreferredPayment': 'UPI'}",Product quality could be better.
